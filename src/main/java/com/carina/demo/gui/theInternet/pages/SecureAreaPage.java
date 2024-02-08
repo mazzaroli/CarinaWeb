@@ -15,6 +15,6 @@ public class SecureAreaPage extends AbstractPage {
     }
 
     public String getAlertText() {
-        return driver.findElement(statusAlert.getBy()).getText();
+        return statusAlert.getText();
     }
 }
