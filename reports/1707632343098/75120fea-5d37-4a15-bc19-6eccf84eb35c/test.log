@@ -1,0 +1,11 @@
+[2024-02-11 06:19:05] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-02-11 06:19:05] [1] [INFO] TEST [CarinaWeb - testAddToCart] STARTED at [03:19:05 2024-02-11]
+[2024-02-11 06:19:05] [1] [INFO] Starting driver session...
+[2024-02-11 06:19:06] [1] [ERROR] Failed to attach artifact reference 'app' to test run because it has not been started yet.
+[2024-02-11 06:19:11] [1] [INFO] Driver session started.
+[2024-02-11 06:19:14] [1] [INFO] PASS: keys 'standard_user' are sent to element 'nameInputField'.
+[2024-02-11 06:19:16] [1] [INFO] PASS: keys 'secret_sauce' are sent to element 'passwordInputField'.
+[2024-02-11 06:19:17] [1] [INFO] PASS: element 'loginBtn' is clicked.
+[2024-02-11 06:19:19] [1] [INFO] PASS: element 'addToCartBtn' is clicked.
+[2024-02-11 06:19:20] [1] [INFO] PASS: element 'removeBtn' is clicked.
+[2024-02-11 06:19:42] [1] [INFO] TEST [CarinaWeb - testAddToCart] PASSED at [03:19:42 2024-02-11]

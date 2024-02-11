@@ -1,0 +1,8 @@
+[2024-02-11 06:19:42] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-02-11 06:19:42] [1] [INFO] TEST [CarinaWeb - testLoginUser] STARTED at [03:19:42 2024-02-11]
+[2024-02-11 06:19:42] [1] [INFO] Starting driver session...
+[2024-02-11 06:19:47] [1] [INFO] Driver session started.
+[2024-02-11 06:19:48] [1] [INFO] PASS: keys 'standard_user' are sent to element 'nameInputField'.
+[2024-02-11 06:19:50] [1] [INFO] PASS: keys 'secret_sauce' are sent to element 'passwordInputField'.
+[2024-02-11 06:19:51] [1] [INFO] PASS: element 'loginBtn' is clicked.
+[2024-02-11 06:19:53] [1] [INFO] TEST [CarinaWeb - testLoginUser] PASSED at [03:19:53 2024-02-11]
